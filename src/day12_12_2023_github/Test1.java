@@ -3,8 +3,10 @@ package day12_12_2023_github;
 public class Test1 {
 
 	int price;
-        //remote repo changes
+        //remote repository changes
 	float weight;
 public static void main(String [] args){
 
+	System.out.println("Test 1..");
+}
 }
