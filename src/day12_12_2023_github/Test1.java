@@ -11,8 +11,6 @@ public static void main(String [] args){
 	System.out.println("Test 2..");
 	System.out.println("Test 3..");
 	
-	Test1 t=new Test1();
-	System.out.println("Creating object ");
-
+	
 }
 }
